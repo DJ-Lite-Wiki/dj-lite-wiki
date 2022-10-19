@@ -1,0 +1,7 @@
+{
+    "main_color": "#ffffff",
+    "auth_token": "auth token",
+    "server_id": "server id (for slash commands)",
+
+    "activity": "Your status"
+}

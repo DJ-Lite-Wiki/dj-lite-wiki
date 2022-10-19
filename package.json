@@ -1,0 +1,29 @@
+{
+  "name": "dj-lite-wiki",
+  "version": "1.0.0",
+  "description": "This is a open sourch discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJ-Lite-Wiki/DJ-Lite-Wiki.git"
+  },
+  "author": "DJ-Lite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJ-Lite-Wiki/DJ-Lite-Wiki/issues"
+  },
+  "homepage": "https://github.com/DJ-Lite-Wiki/DJ-Lite-Wiki#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.6.0"
+  },
+  "keywords": [
+    "open",
+    "discord",
+    "DJ-Lite",
+    "Wiki"
+  ]
+}
