@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DJ-Lite-Wiki/DJ-Lite-Wiki.git"
+    "url": "git+https://github.com/DJ-Lite-Wiki/dj-lite-wiki"
   },
   "author": "DJ-Lite",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DJ-Lite-Wiki/DJ-Lite-Wiki/issues"
+    "url": "https://github.com/DJ-Lite-Wiki/dj-lite-wikiissues"
   },
-  "homepage": "https://github.com/DJ-Lite-Wiki/DJ-Lite-Wiki#readme",
+  "homepage": "https://github.com/DJ-Lite-Wiki/dj-lite-wiki#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "discord.js": "^14.6.0"
