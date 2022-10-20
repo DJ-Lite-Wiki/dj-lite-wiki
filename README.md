@@ -22,7 +22,7 @@ This is an open-source bot and you can fully customize it!
 ## Version
 _v1.0.0_
 
-changelog: [click here](https://docs.djlite.dj-dj.be/other/changelog)
+Changelog: [Click here](https://docs.djlite.dj-dj.be/other/changelog)
 
 
 © 2022 - DJ-Lite Wiki | [Discord](https://discord.gg/PANwbcpUzu) | [Documentation](https://docs.djlite.dj-dj.be)
