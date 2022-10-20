@@ -19,7 +19,7 @@ const client = new Client({
     ]
 });
 
-client.on("ready", () => {
+client.on("ready", () => { // in client.on("...") you need to stay off otherwise your bot doesn't work
     client.user.setActivity(`${config.activity}`)
     log(colors.blue("\n   WELCOME TO DJ-LITE WIKI\n-----------------------------"))
     setTimeout(() => {
