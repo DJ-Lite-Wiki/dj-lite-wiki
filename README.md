@@ -1,4 +1,4 @@
-# DJ-Lite Wiki
+# DJ-Lite Wiki 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-5865F2.svg?style=flat-square&logo=discord)](https://discord.gg/PANwbcpUzu) [![Documentation](https://img.shields.io/badge/Documentation-Click%20Here-yellow.svg?style=flat-square)](https://docs.djlite.dj-dj.be) [![License](https://img.shields.io/badge/License-GPL%203.0-important.svg?style=flat-square)](https://github.com/DJ-Lite/How-to-create-a-bot/blob/main/LICENSE.md) ![Discord.js](https://img.shields.io/badge/Discord.js-v14-CB3837.svg?style=flat-square&logo=npm)
 
 This is an open-source bot and you can fully customize it!
